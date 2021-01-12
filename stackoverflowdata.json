@@ -1,0 +1,503 @@
+{
+    "questions": [
+        {
+            "question": "Laravel view 1 second without styles",
+            "tags": [
+                "laravel",
+                "stylesheet"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "WinForms C# App Printer sometimes not printing",
+            "tags": [
+                "c#",
+                "winforms"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "How do I get my code to display the flag corresponding to the country selected?",
+            "tags": [
+                "javascript",
+                "select"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Multiple inheritance and function overloading with C++ generic containers (std::map in the case)",
+            "tags": [
+                "c++",
+                "dictionary",
+                "polymorphism",
+                "operator-overloading",
+                "multiple-inheritance"
+            ],
+            "views": "5 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Scraping data from XML with python",
+            "tags": [
+                "python",
+                "xml",
+                "web-scraping"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "UNIQUE constraint failed: authtoken_token.user_id while performing login using Django Framework",
+            "tags": [
+                "python",
+                "django",
+                "django-rest-framework"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "flutter: HTML selectable text",
+            "tags": [
+                "html",
+                "string",
+                "flutter",
+                "text",
+                "jquery-ui-selectable"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Increase vm name by 1digit in ansible",
+            "tags": [
+                "ansible"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Converting MooTools to a jQuery script",
+            "tags": [
+                "javascript",
+                "html",
+                "jquery",
+                "css",
+                "mootools"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Error initialising spark context. Could not load yarn support",
+            "tags": [
+                "java",
+                "scala",
+                "apache-spark"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "React js set state in functional component",
+            "tags": [
+                "reactjs"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Flutter - errors in 'android' folder. How to solve them? import io.flutter.embedding.android.FlutterActivity",
+            "tags": [
+                "android",
+                "flutter",
+                "dart"
+            ],
+            "views": "3 views",
+            "voteCount": "-1"
+        },
+        {
+            "question": "Declaring Generics in React Typescript Function Component",
+            "tags": [
+                "reactjs",
+                "typescript",
+                "generics",
+                "react-typescript"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "VS 2019 ClickOnce Publish Options Error - An item with the same key has already been added",
+            "tags": [
+                "visual-studio",
+                "key",
+                "clickonce",
+                "publish",
+                "options"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Regex to split text into sentences",
+            "tags": [
+                "php",
+                "regex",
+                "tags"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Kotlin okhttp3 websocket reconnect",
+            "tags": [
+                "android",
+                "kotlin",
+                "websocket",
+                "okhttp"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Update a variable in list from another list using c# linq",
+            "tags": [
+                "c#",
+                "linq"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "I get a stackOverflowError when trying to generate a very large PDF file in Java",
+            "tags": [
+                "java",
+                "hibernate",
+                "jsf"
+            ],
+            "views": "5 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Create dynamically a plan between some points in Unity ARCore for Android",
+            "tags": [
+                "c#",
+                "android",
+                "unity3d",
+                "augmented-reality",
+                "arcore"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Error code 7B73D32B when trying to update staged rollout to 100.0 on new Google Play Console",
+            "tags": [
+                "google-play-console"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "gridview row delete with bootstrap modal confirmation",
+            "tags": [
+                "c#",
+                "asp.net",
+                "webforms",
+                "bootstrap-modal"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Docker on Ubuntu-Host - JLink passthrough",
+            "tags": [
+                "docker"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "How to add text in BottomAppBar in android",
+            "tags": [
+                "android",
+                "xml"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Pass data through promise .then notation using axios",
+            "tags": [
+                "javascript",
+                "json",
+                "promise",
+                "axios"
+            ],
+            "views": "9 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Null value for column when selecting using dot or bracket notation but not when using UDF",
+            "tags": [
+                "pyspark",
+                "apache-spark-sql",
+                "pyspark-dataframes"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Error while getting native targets for android: No valid Android SDK root found",
+            "tags": [
+                "cordova",
+                "ionic-framework"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Laravel 8 - Trusted Proxies. Confused between 'fideloper/TrustedProxy' and 'TrustProxies Middleware'",
+            "tags": [
+                "php",
+                "proxy",
+                "package",
+                "laravel-8",
+                "trusted"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "All Python Permutations and Combinations of Pinyin (Mandarin Romanization)",
+            "tags": [
+                "python",
+                "pandas",
+                "list-comprehension",
+                "pinyin"
+            ],
+            "views": "5 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "How do I center the borders",
+            "tags": [
+                "html",
+                "css"
+            ],
+            "views": "11 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Get URL from notification payload and set it as the URLRequest url from WKWebView in Swift 5",
+            "tags": [
+                "ios",
+                "swift",
+                "wkwebview"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Json Data To WPF DataGrid",
+            "tags": [
+                "c#",
+                "json",
+                "wpf",
+                "datagrid"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Minimum requirements to add NPM Packages to HTML/CSS project",
+            "tags": [
+                "reactjs"
+            ],
+            "views": "7 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Why do links to twitter and direct links to tweets fail inside of Embedly?",
+            "tags": [
+                "embedly"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Remote Software Development",
+            "tags": [
+                "java",
+                "intellij-idea",
+                "ide"
+            ],
+            "views": "5 views",
+            "voteCount": "-2"
+        },
+        {
+            "question": "Is it wrong to assume that Github will retain the data in the database from Android Studio?",
+            "tags": [
+                "android",
+                "github",
+                "android-studio-3.0"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Web UI options to replace Excel front end",
+            "tags": [
+                "angular"
+            ],
+            "views": "5 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Scrollable frame class in tkinter",
+            "tags": [
+                "python",
+                "python-3.x",
+                "tkinter"
+            ],
+            "views": "4 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Is there a way I can identify the tables in a module used in different ways?",
+            "tags": [
+                "sql",
+                "sql-server",
+                "sql-server-2008",
+                "reporting-services",
+                "ssis"
+            ],
+            "views": "7 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Internal Server Error when logging in with Cognito federated linked account if federated account is separate in the userpool",
+            "tags": [
+                "amazon-web-services",
+                "amazon-cognito"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "model.evaluate() and model.predict () return very different results",
+            "tags": [
+                "python",
+                "keras",
+                "evaluate"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Loop through divs and add onmouseover",
+            "tags": [
+                "javascript",
+                "dom",
+                "events",
+                "addeventlistener",
+                "mouseover"
+            ],
+            "views": "9 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "How to set tab based cookies in WebView2?",
+            "tags": [
+                "c++",
+                "cookies",
+                "webview2"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Multiple draggable elements",
+            "tags": [
+                "javascript",
+                "java",
+                "html",
+                "spring",
+                "thymeleaf"
+            ],
+            "views": "6 views",
+            "voteCount": "-1"
+        },
+        {
+            "question": "This\u2026 is not a function",
+            "tags": [
+                "javascript"
+            ],
+            "views": "20 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "else & elif statements seems that is not working in Python",
+            "tags": [
+                "python"
+            ],
+            "views": "17 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Is there any way to stretch layout when device has cutout (notch)?",
+            "tags": [
+                "android",
+                "kotlin",
+                "android-cutout"
+            ],
+            "views": "5 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Neo.ClientError.Statement.ExternalResourceFailed error on loading CSV file from local",
+            "tags": [
+                "python",
+                "neo4j",
+                "cypher",
+                "py2neo"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "VPC endpoint in Cloudformation - Endpoint type (Gateway) does not match available service types ([Interface])",
+            "tags": [
+                "amazon-web-services",
+                "amazon-cloudformation",
+                "aws-api-gateway"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Spring Cloud Server-Client",
+            "tags": [
+                "spring",
+                "client-server",
+                "spring-cloud"
+            ],
+            "views": "2 views",
+            "voteCount": "0"
+        },
+        {
+            "question": "Socket.io client unable to verify latest letsencrypt certificate",
+            "tags": [
+                "node.js",
+                "socket.io",
+                "lets-encrypt"
+            ],
+            "views": "3 views",
+            "voteCount": "0"
+        }
+    ]
+}

@@ -2,6 +2,7 @@
     package="com.example.stackoverflow_qna">
    <application
         android:label="stackoverflow_qna"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
